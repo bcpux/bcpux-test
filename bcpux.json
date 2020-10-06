@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "7.3.4-unofficial",
+    "versionCode": "20190919",
+    "link": "https://github.com/bcpux/bcpux-test/raw/main/MagiskManager-v7.3.4.apk",
+    "note": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/Changelog-v18.1.r17-2019012311.md"
+  },
+  "magisk": {
+    "version": "19.4-unofficial",
+    "versionCode": "2019012311",
+    "link": "https://github.com/bcpux/bcpux-test/raw/main/Magisk-v19.4.zip",
+    "note": "https://raw.githubusercontent.com/kantjer/MagiskFiles/master/updates/Changelog.md",
+    "md5": "efa7e1988dc3e52c1fab521073ebd619"
+  },
+    "uninstaller": {
+    "link": "https://github.com/bcpux/bcpux-test/raw/main/Magisk-uninstaller-20190919.zip"
+  },
+    "snet": {
+    "versionCode": "12",
+    "link": "https://github.com/kantjer/MagiskFiles/raw/master/snet.apk"
+  }
+}
